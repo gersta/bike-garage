@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+.kotlin/
+build/
+*/build/
+
+# Local Android SDK and machine-specific configuration
+.android-sdk/
+.android-home/
+.android-sdk-bootstrap/
+local.properties
+
+# Android/Gradle generated output
+*.apk
+*.aab
+*.apks
+captures/
+externalNativeBuild/
+.cxx/
+
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store
+
+# JVM crash dumps
+*.hprof
+
+# Signing material
+*.jks
+*.keystore

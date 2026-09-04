@@ -1,0 +1,37 @@
+package de.gerritstapper.bikegarage.feature.bike
+
+internal object BikeBrandCatalog {
+    val knownBrands = listOf(
+        "Bianchi",
+        "BMC",
+        "Brompton",
+        "Bulls",
+        "Cannondale",
+        "Canyon",
+        "Cube",
+        "Decathlon",
+        "Flyer",
+        "Focus",
+        "Gazelle",
+        "Ghost",
+        "Giant",
+        "Haibike",
+        "Kalkhoff",
+        "Kona",
+        "KTM",
+        "Marin",
+        "Merida",
+        "Orbea",
+        "Pinarello",
+        "Riese & Müller",
+        "Rockrider",
+        "Rose",
+        "Santa Cruz",
+        "Scott",
+        "Specialized",
+        "Stevens",
+        "Surly",
+        "Trek",
+        "Yeti",
+    )
+}
